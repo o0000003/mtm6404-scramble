@@ -1,0 +1,11 @@
+/* style.css */
+.game-container {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+input,
+button {
+    padding: 8px;
+    margin: 5px;
+}
